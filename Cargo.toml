@@ -6,5 +6,5 @@ license = "Apache-2.0"
 description = "SigmaOS component - part of multi-repository architecture"
 
 [lib]
-name = "android-sdk"
+name = "android_sdk"
 path = "src/lib.rs"
