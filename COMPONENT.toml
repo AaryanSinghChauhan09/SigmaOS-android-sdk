@@ -3,7 +3,7 @@ name = "SigmaOS-android-sdk"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "android-sdk component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
