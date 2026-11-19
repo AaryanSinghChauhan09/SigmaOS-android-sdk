@@ -3,8 +3,13 @@ name = "SigmaOS-android-sdk"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
-description = "SigmaOS component - part of multi-repository architecture"
+description = "SigmaOS android_sdk component"
 
 [lib]
 name = "android_sdk"
 path = "src/lib.rs"
+
+[dependencies]
+thiserror = "1"
+
+[dev-dependencies]
